@@ -1,4 +1,4 @@
 shell
 =====
 
-shell scripts, utilities, dot files and misc.
+shell scripts, utilities and misc.
